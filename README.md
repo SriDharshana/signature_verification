@@ -1,9 +1,15 @@
 # Signature Verification
 To verify whether the given signature is Real of Fake
 
+# Abstract
+
+Forgery is happening in banks, intelligence agencies and high-profile institutions while validating the identity of an individual using their signature . To overcome this issue , Machine Learning is used to detect whether the signature is real or fake. Here, Random Forest Classifier is used to determine whether a questioned signature matches known signature samples . This saves time and energy and helps to prevent human error during the signature process and lowers chances of fraud in the process of authentication.
+
 # Datasets
 You can request the access for the dataset here !!
+
 [Training dataset](https://drive.google.com/drive/folders/1QUBvkgazkalx9F5xYb2XHUlI_954v33R?usp=share_link)
+
 [Testing dataset](https://drive.google.com/drive/folders/1qnkzQqboZjjALxzZby4OuP2JkUK_tGCP?usp=share_link)
 
 Dataset contains the images of real signatures and fake signatures . 
@@ -36,6 +42,7 @@ Accuracy : 0.866
 # Prediction
 
 The given test image is :
+
 ![image](https://user-images.githubusercontent.com/86719672/210163502-d346c555-64c8-46c7-a4d1-e6d8882c8ad1.png)
 
 
