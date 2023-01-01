@@ -41,8 +41,6 @@ Accuracy : 0.866
 
 # Prediction
 
-The given test image is :
-
 ![image](https://user-images.githubusercontent.com/86719672/210163502-d346c555-64c8-46c7-a4d1-e6d8882c8ad1.png)
 
 
